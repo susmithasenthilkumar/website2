@@ -1,14 +1,14 @@
-# Fieldwork Studio
+# Axiom Studio
 
-A static multi-page internship website built with HTML5, CSS3, and vanilla JavaScript.
+A premium multi-page internship project built with semantic HTML5, CSS3, and vanilla JavaScript.
 
-## Run in VS Code
+## Run locally
 
-Open the folder in VS Code and launch `index.html` with the Live Server extension. The site uses external Unsplash imagery and Google Fonts, so an internet connection improves the visual result.
+Open the folder in VS Code and use Live Server on `index.html`. The cinematic hero references `assets/videos/hero.mp4` and includes a poster fallback, so the layout stays intact until a local video is added.
 
 ## Pages
 
-- `index.html` - home, manifesto, services preview, principles
-- `about.html` - studio story, values, founder quote
-- `services.html` - capabilities and process
-- `contact.html` - validated contact form
+- `index.html` — cinematic home, services, showcase, statistics, principles, film section
+- `about.html` — studio story, values, timeline, and team composition
+- `services.html` — asymmetrical capabilities matrix and process
+- `contact.html` — contact information, validated form, and map visual

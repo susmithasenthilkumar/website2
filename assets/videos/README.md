@@ -1,0 +1,1 @@
+Place the optional local hero video at this path as `hero.mp4`. The home page uses a remote poster image and CSS background treatment as a graceful fallback when the video is unavailable.
